@@ -1,6 +1,6 @@
 var reg = /React/;
-// var reg = /React/g;
-// var reg = /React/i;
+// var reg = /React/g;  g => global search
+// var reg = /React/i;  i => ignore Case
 var string = "JS React Html css React";
 
 // 1. exec() // value with index, null
